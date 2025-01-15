@@ -1,0 +1,6 @@
+streamlit
+pandas
+matplotlib
+seaborn
+streamlit-authenticator
+streamlit-option-menu
