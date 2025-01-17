@@ -175,8 +175,8 @@ import matplotlib.pyplot as plt
 lesDonneesDesComptes = {
     'usernames': {
         'utilisateur': {
-            'name': 'user',
-            'password': 'userMDP',
+            'name': 'Utilisateur',
+            'password': 'utilisateurMDP',
             'email': 'utilisateur@gmail.com',
             'failed_login_attemps': 0,  # Géré automatiquement
             'logged_in': False,         # Géré automatiquement
